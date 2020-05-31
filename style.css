@@ -1,0 +1,19 @@
+.container{
+    max-width: 80%;
+}
+
+.row{
+    max-width: 100%;
+}
+
+.answer{
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+#footer-main{
+    background: #222;
+    color: white;
+    font-size: 0.8rem;
+    padding: 2.5rem 0;
+}
